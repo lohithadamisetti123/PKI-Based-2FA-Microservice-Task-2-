@@ -1,7 +1,21 @@
+# ========================
+# Ignore sensitive/encrypted files
+# ========================
 encrypted_seed.txt
+
+# ========================
+# Python cache and compiled files
+# ========================
 __pycache__/
 *.pyc
+
+# ========================
+# Environment variables
+# ========================
 .env
+
+# ========================
+# IDE/editor files
+# ========================
 .vscode/
 .idea/
-encrypted_seed.txt
